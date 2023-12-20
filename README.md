@@ -1,0 +1,1 @@
+This current project is the first in the Odin Project Curriculum. The goal is to build my HTML "chops". I intend on practicing my ability to use git and github, remembering and using HTML elements, and having good file structure.
