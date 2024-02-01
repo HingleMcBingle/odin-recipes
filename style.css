@@ -2,12 +2,40 @@
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 800;
-    background-color: aquamarine;
+    background-color: rgb(145, 94, 60);
+    color: white;
 }
 
 .recipe{
-    font-size: 400px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-weight: bolder;
-    color: blueviolet;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    color: rgb(80, 137, 80);
+    text-align: center;
+}
+
+body{
+    background-color: rgb(250, 233, 190);
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:visited{
+    text-decoration: none;
+    color: rgb(52, 110, 52)
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+a:active{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+    background-color: beige;
 }
